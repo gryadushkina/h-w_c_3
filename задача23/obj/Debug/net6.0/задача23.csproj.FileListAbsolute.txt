@@ -1,0 +1,15 @@
+/Users/macuser/Desktop/дз3C#/задача23/obj/Debug/net6.0/задача23.csproj.AssemblyReference.cache
+/Users/macuser/Desktop/дз3C#/задача23/obj/Debug/net6.0/задача23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macuser/Desktop/дз3C#/задача23/obj/Debug/net6.0/задача23.AssemblyInfoInputs.cache
+/Users/macuser/Desktop/дз3C#/задача23/obj/Debug/net6.0/задача23.AssemblyInfo.cs
+/Users/macuser/Desktop/дз3C#/задача23/obj/Debug/net6.0/задача23.csproj.CoreCompileInputs.cache
+/Users/macuser/Desktop/дз3C#/задача23/bin/Debug/net6.0/задача23
+/Users/macuser/Desktop/дз3C#/задача23/bin/Debug/net6.0/задача23.deps.json
+/Users/macuser/Desktop/дз3C#/задача23/bin/Debug/net6.0/задача23.runtimeconfig.json
+/Users/macuser/Desktop/дз3C#/задача23/bin/Debug/net6.0/задача23.dll
+/Users/macuser/Desktop/дз3C#/задача23/bin/Debug/net6.0/задача23.pdb
+/Users/macuser/Desktop/дз3C#/задача23/obj/Debug/net6.0/задача23.dll
+/Users/macuser/Desktop/дз3C#/задача23/obj/Debug/net6.0/refint/задача23.dll
+/Users/macuser/Desktop/дз3C#/задача23/obj/Debug/net6.0/задача23.pdb
+/Users/macuser/Desktop/дз3C#/задача23/obj/Debug/net6.0/задача23.genruntimeconfig.cache
+/Users/macuser/Desktop/дз3C#/задача23/obj/Debug/net6.0/ref/задача23.dll
